@@ -12,3 +12,4 @@ Open the following link in your browser and start coding:
 
 **https://jtpio.github.io/anywidget-lite/lab/index.html?path=anywidget.ipynb**
 
+Test
