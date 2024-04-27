@@ -1,6 +1,6 @@
 anywidget
-jupyterlab >=4.1.0 <=4.2.0
-jupyterlite-core >=3.0
+jupyterlab
+jupyterlite-core
 jupyterlite-pyodide-kernel
 notebook 
 jupyterlab-kernelspy >=4.0.0
