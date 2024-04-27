@@ -1,5 +1,5 @@
 anywidget
-jupyterlab >=4.1 <=4.2
+jupyterlab >=4.1.0 <=4.2.0
 jupyterlite-core >=3.0
 jupyterlite-pyodide-kernel
 notebook 
